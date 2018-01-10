@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# lolz Mac
+.DS_Store
